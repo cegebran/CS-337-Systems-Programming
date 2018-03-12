@@ -1,0 +1,6 @@
+ls
+ls -l
+ls -la
+w
+date
+89
